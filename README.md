@@ -80,11 +80,19 @@ Project Link: [https://github.com/sergomen/template01](https://github.com/sergom
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[1]: https://i.ibb.co/mR66WFS/1.png
+[1]: https://i.postimg.cc/g2QjLr9f/1.png
+[2]: https://i.postimg.cc/90mQH7Tq/2.png
+[3]: https://i.postimg.cc/pdjTfxRy/3.png
+[4]: https://i.postimg.cc/4dT3wMxP/4.png
+[5]: https://i.postimg.cc/sX9gLcBr/5.png
+[6]: https://i.postimg.cc/0jV2kydX/6.png
+[7]: https://i.postimg.cc/kX5gjWq0/7.png
+
+
+<!-- [1]: https://i.ibb.co/mR66WFS/1.png
 [2]: https://i.ibb.co/YpL4mrn/2.png
 [3]: https://i.ibb.co/c685GQh/3.png
 [4]: https://i.ibb.co/V2kL6jm/4.png
 [5]: https://i.ibb.co/85gwF8C/5.png
 [6]: https://i.ibb.co/ZzHYRr1/6.png
-[7]: https://i.ibb.co/84nVQXn/7.png
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[7]: https://i.ibb.co/84nVQXn/7.png -->
